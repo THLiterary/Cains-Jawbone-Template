@@ -1,0 +1,1 @@
+I highly recommend you put the double brackets around any events you think are significant, add the pages to this folder and make your notes via the [[Events_Template]]

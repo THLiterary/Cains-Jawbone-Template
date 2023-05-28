@@ -1,0 +1,1 @@
+This section works similar to [[Events]]. I highly recommend that you put brackets around any places mentioned in the text and fill in details that could help you. Make notes on places via that [[Places_template]]
